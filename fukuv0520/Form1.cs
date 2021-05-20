@@ -17,5 +17,9 @@ namespace fukuv0520
             InitializeComponent();
         }
 
+        private void button1_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("今日は曇り");
+        }
     }
 }
